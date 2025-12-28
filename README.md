@@ -1,7 +1,7 @@
 ## 👋 Olá!
 
 <p>
-  Eu sou desenvolvedor fullstack, especialista em Java (JSF/JSP e Spring Boot) ReactJS e Flutter, formado em Analise e Desenvolvimento de Sistema, trabalho na JC Sistema como programador FullStack Java (JSF/JSP) e Flutter, e também faço projetos independentes. Meu inglês é B1..
+  Eu sou desenvolvedor fullstack, especialista em Java (JSF/JSP e Spring Boot) ReactJS e Flutter, formado em Analise e Desenvolvimento de Sistema, trabalho na JC Sistema como programador FullStack Java (JSF/JSP) e Flutter, e também faço projetos independentes. Meu inglês é B1.
 </p>
   
 <!--  -->
@@ -9,15 +9,6 @@
 <div align="center">
   <a href="https://github.com/vitorhugo1207">
   <img height="150em" src="https://streak-stats.demolab.com/?user=vitorhugo1207&theme=dracula" />
-</div>
-
-<!--  -->
-<br>
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/vitorhugo1207">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=vitorhugo1207&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
-  </a>
 </div>
 
 <!--  -->
