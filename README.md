@@ -30,7 +30,7 @@
 
 <div align="center">
   <a href="https://github.com/vitorhugo1207">
-  <img height="150em" src="https://streak-stats.demolab.com/?user=vitorhugo1207&theme=dracula" />
+  <img height="150em" src="https://streak-stats.demolab.com/?user=vitorhugo-java&theme=dracula" />
 </div>
 
 <!--  -->
